@@ -4,6 +4,6 @@ Reflexão 1.0
 - seria ideal melhoras na interface
 
 Reflexão 2.0
-1 - O código ficou menor
-2 - Para alterar a cor de fundo é preciso ser feito apenas no ItemCardapio
-3 - os dados chegam através dos argumentos de uma função 
+  1 - O código ficou menor
+  2 - Para alterar a cor de fundo é preciso ser feito apenas no ItemCardapio
+  3 - os dados chegam através dos argumentos de uma função 
