@@ -1,0 +1,3 @@
+- Chaves foram repetidas como id, nome e preço
+- Se tivesse 30 itens na lanchonete, teriamos mais dificuldade de manutenção, pois manter dentro do unico arquivo app.jsx o tornaria longo.
+- seria ideal melhoras na interface
